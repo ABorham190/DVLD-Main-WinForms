@@ -1,0 +1,12 @@
+E:\programming main\Course 19\New folder\GlobalStructs\bin\Debug\GlobalStructs.dll
+E:\programming main\Course 19\New folder\GlobalStructs\bin\Debug\GlobalStructs.pdb
+E:\programming main\Course 19\New folder\GlobalStructs\obj\Debug\GlobalStructs.csproj.AssemblyReference.cache
+E:\programming main\Course 19\New folder\GlobalStructs\obj\Debug\GlobalStructs.csproj.CoreCompileInputs.cache
+E:\programming main\Course 19\New folder\GlobalStructs\obj\Debug\GlobalStructs.dll
+E:\programming main\Course 19\New folder\GlobalStructs\obj\Debug\GlobalStructs.pdb
+F:\My Project Safe Edition\DVLSystem My solution\New folder\GlobalStructs\bin\Debug\GlobalStructs.dll
+F:\My Project Safe Edition\DVLSystem My solution\New folder\GlobalStructs\bin\Debug\GlobalStructs.pdb
+F:\My Project Safe Edition\DVLSystem My solution\New folder\GlobalStructs\obj\Debug\GlobalStructs.csproj.AssemblyReference.cache
+F:\My Project Safe Edition\DVLSystem My solution\New folder\GlobalStructs\obj\Debug\GlobalStructs.csproj.CoreCompileInputs.cache
+F:\My Project Safe Edition\DVLSystem My solution\New folder\GlobalStructs\obj\Debug\GlobalStructs.dll
+F:\My Project Safe Edition\DVLSystem My solution\New folder\GlobalStructs\obj\Debug\GlobalStructs.pdb

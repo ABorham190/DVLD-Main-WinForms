@@ -1,0 +1,33 @@
+E:\programming main\Course 19\New folder\DVDLBussinessLayer\bin\Debug\DVDLBussinessLayer.dll
+E:\programming main\Course 19\New folder\DVDLBussinessLayer\bin\Debug\DVDLBussinessLayer.pdb
+E:\programming main\Course 19\New folder\DVDLBussinessLayer\bin\Debug\DVLDdataAccessLayer.dll
+E:\programming main\Course 19\New folder\DVDLBussinessLayer\bin\Debug\DVLDdataAccessLayer.pdb
+E:\programming main\Course 19\New folder\DVDLBussinessLayer\obj\Debug\DVDLBussinessLayer.csproj.AssemblyReference.cache
+E:\programming main\Course 19\New folder\DVDLBussinessLayer\obj\Debug\DVDLBussinessLayer.csproj.CoreCompileInputs.cache
+E:\programming main\Course 19\New folder\DVDLBussinessLayer\obj\Debug\DVDLBussinessLayer.csproj.CopyComplete
+E:\programming main\Course 19\New folder\DVDLBussinessLayer\obj\Debug\DVDLBussinessLayer.dll
+E:\programming main\Course 19\New folder\DVDLBussinessLayer\obj\Debug\DVDLBussinessLayer.pdb
+E:\programming main\Course 19\New folder\DVDLBussinessLayer\bin\Debug\GlobalStructs.dll
+E:\programming main\Course 19\New folder\DVDLBussinessLayer\bin\Debug\GlobalStructs.pdb
+H:\DVLSystem My solution\New folder\DVDLBussinessLayer\bin\Debug\DVDLBussinessLayer.dll
+H:\DVLSystem My solution\New folder\DVDLBussinessLayer\bin\Debug\DVDLBussinessLayer.pdb
+H:\DVLSystem My solution\New folder\DVDLBussinessLayer\bin\Debug\DVLDdataAccessLayer.dll
+H:\DVLSystem My solution\New folder\DVDLBussinessLayer\bin\Debug\GlobalStructs.dll
+H:\DVLSystem My solution\New folder\DVDLBussinessLayer\bin\Debug\DVLDdataAccessLayer.pdb
+H:\DVLSystem My solution\New folder\DVDLBussinessLayer\bin\Debug\GlobalStructs.pdb
+H:\DVLSystem My solution\New folder\DVDLBussinessLayer\obj\Debug\DVDLBussinessLayer.csproj.AssemblyReference.cache
+H:\DVLSystem My solution\New folder\DVDLBussinessLayer\obj\Debug\DVDLBussinessLayer.csproj.CoreCompileInputs.cache
+H:\DVLSystem My solution\New folder\DVDLBussinessLayer\obj\Debug\DVDLBussinessLayer.csproj.CopyComplete
+H:\DVLSystem My solution\New folder\DVDLBussinessLayer\obj\Debug\DVDLBussinessLayer.dll
+H:\DVLSystem My solution\New folder\DVDLBussinessLayer\obj\Debug\DVDLBussinessLayer.pdb
+F:\My Project Safe Edition\DVLSystem My solution\New folder\DVDLBussinessLayer\bin\Debug\DVDLBussinessLayer.dll
+F:\My Project Safe Edition\DVLSystem My solution\New folder\DVDLBussinessLayer\bin\Debug\DVDLBussinessLayer.pdb
+F:\My Project Safe Edition\DVLSystem My solution\New folder\DVDLBussinessLayer\bin\Debug\DVLDdataAccessLayer.dll
+F:\My Project Safe Edition\DVLSystem My solution\New folder\DVDLBussinessLayer\bin\Debug\GlobalStructs.dll
+F:\My Project Safe Edition\DVLSystem My solution\New folder\DVDLBussinessLayer\bin\Debug\DVLDdataAccessLayer.pdb
+F:\My Project Safe Edition\DVLSystem My solution\New folder\DVDLBussinessLayer\bin\Debug\GlobalStructs.pdb
+F:\My Project Safe Edition\DVLSystem My solution\New folder\DVDLBussinessLayer\obj\Debug\DVDLBussinessLayer.csproj.AssemblyReference.cache
+F:\My Project Safe Edition\DVLSystem My solution\New folder\DVDLBussinessLayer\obj\Debug\DVDLBussinessLayer.csproj.CoreCompileInputs.cache
+F:\My Project Safe Edition\DVLSystem My solution\New folder\DVDLBussinessLayer\obj\Debug\DVDLBuss.541DB123.Up2Date
+F:\My Project Safe Edition\DVLSystem My solution\New folder\DVDLBussinessLayer\obj\Debug\DVDLBussinessLayer.dll
+F:\My Project Safe Edition\DVLSystem My solution\New folder\DVDLBussinessLayer\obj\Debug\DVDLBussinessLayer.pdb

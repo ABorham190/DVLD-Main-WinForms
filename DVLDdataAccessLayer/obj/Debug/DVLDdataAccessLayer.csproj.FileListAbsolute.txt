@@ -1,0 +1,27 @@
+E:\programming main\Course 19\New folder\DVLDdataAccessLayer\bin\Debug\DVLDdataAccessLayer.dll
+E:\programming main\Course 19\New folder\DVLDdataAccessLayer\bin\Debug\DVLDdataAccessLayer.pdb
+E:\programming main\Course 19\New folder\DVLDdataAccessLayer\obj\Debug\DVLDdataAccessLayer.csproj.AssemblyReference.cache
+E:\programming main\Course 19\New folder\DVLDdataAccessLayer\obj\Debug\DVLDdataAccessLayer.csproj.CoreCompileInputs.cache
+E:\programming main\Course 19\New folder\DVLDdataAccessLayer\obj\Debug\DVLDdataAccessLayer.dll
+E:\programming main\Course 19\New folder\DVLDdataAccessLayer\obj\Debug\DVLDdataAccessLayer.pdb
+E:\programming main\Course 19\New folder\DVLDdataAccessLayer\bin\Debug\GlobalStructs.dll
+E:\programming main\Course 19\New folder\DVLDdataAccessLayer\bin\Debug\GlobalStructs.pdb
+E:\programming main\Course 19\New folder\DVLDdataAccessLayer\obj\Debug\DVLDdataAccessLayer.csproj.CopyComplete
+H:\DVLSystem My solution\New folder\DVLDdataAccessLayer\bin\Debug\DVLDdataAccessLayer.dll
+H:\DVLSystem My solution\New folder\DVLDdataAccessLayer\bin\Debug\DVLDdataAccessLayer.pdb
+H:\DVLSystem My solution\New folder\DVLDdataAccessLayer\bin\Debug\GlobalStructs.dll
+H:\DVLSystem My solution\New folder\DVLDdataAccessLayer\bin\Debug\GlobalStructs.pdb
+H:\DVLSystem My solution\New folder\DVLDdataAccessLayer\obj\Debug\DVLDdataAccessLayer.csproj.AssemblyReference.cache
+H:\DVLSystem My solution\New folder\DVLDdataAccessLayer\obj\Debug\DVLDdataAccessLayer.csproj.CoreCompileInputs.cache
+H:\DVLSystem My solution\New folder\DVLDdataAccessLayer\obj\Debug\DVLDdataAccessLayer.csproj.CopyComplete
+H:\DVLSystem My solution\New folder\DVLDdataAccessLayer\obj\Debug\DVLDdataAccessLayer.dll
+H:\DVLSystem My solution\New folder\DVLDdataAccessLayer\obj\Debug\DVLDdataAccessLayer.pdb
+F:\My Project Safe Edition\DVLSystem My solution\New folder\DVLDdataAccessLayer\bin\Debug\DVLDdataAccessLayer.dll
+F:\My Project Safe Edition\DVLSystem My solution\New folder\DVLDdataAccessLayer\bin\Debug\DVLDdataAccessLayer.pdb
+F:\My Project Safe Edition\DVLSystem My solution\New folder\DVLDdataAccessLayer\bin\Debug\GlobalStructs.dll
+F:\My Project Safe Edition\DVLSystem My solution\New folder\DVLDdataAccessLayer\bin\Debug\GlobalStructs.pdb
+F:\My Project Safe Edition\DVLSystem My solution\New folder\DVLDdataAccessLayer\obj\Debug\DVLDdataAccessLayer.csproj.AssemblyReference.cache
+F:\My Project Safe Edition\DVLSystem My solution\New folder\DVLDdataAccessLayer\obj\Debug\DVLDdataAccessLayer.csproj.CoreCompileInputs.cache
+F:\My Project Safe Edition\DVLSystem My solution\New folder\DVLDdataAccessLayer\obj\Debug\DVLDdata.7AC691E2.Up2Date
+F:\My Project Safe Edition\DVLSystem My solution\New folder\DVLDdataAccessLayer\obj\Debug\DVLDdataAccessLayer.dll
+F:\My Project Safe Edition\DVLSystem My solution\New folder\DVLDdataAccessLayer\obj\Debug\DVLDdataAccessLayer.pdb
