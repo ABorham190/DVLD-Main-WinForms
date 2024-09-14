@@ -68,7 +68,7 @@ namespace DVLD_My_Solution
         {
             this.Close();
         }
-        //Here place of removed procedure
+        
         private void btnSave_Click(object sender, EventArgs e)
         {
             
